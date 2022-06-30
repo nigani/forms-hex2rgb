@@ -1,0 +1,19 @@
+.box {
+  position: absolute;
+  top: 50%;
+  left: 50%;  
+}
+
+.inputbox {
+  height: 30px;
+  text-align:center;
+}
+
+.subbox {
+  height: 36px;
+  color: white;
+  background-color: purple;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
